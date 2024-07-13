@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock next-level efficiency and innovation with our cutting-edge platform.",
+        "title": "Revolutionize Your Digital World"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock next-level efficiency and innovation with our cutting-edge platform.",
+        "title": "Revolutionize Your Digital World"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock next-level efficiency and innovation with our cutting-edge platform.",
+        "title": "Revolutionize Your Digital World"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock next-level efficiency and innovation with our cutting-edge platform.",
+        "title": "Revolutionize Your Digital World"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock next-level efficiency and innovation with our cutting-edge platform.",
+        "title": "Revolutionize Your Digital World"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock next-level efficiency and innovation with our cutting-edge platform.",
+        "title": "Revolutionize Your Digital World"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock next-level efficiency and innovation with our cutting-edge platform.",
+        "title": "Revolutionize Your Digital World"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock next-level efficiency and innovation with our cutting-edge platform.",
+        "title": "Revolutionize Your Digital World"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Digital World",
+  "subtitle": "Unlock next-level efficiency and innovation with our cutting-edge platform."
+}
